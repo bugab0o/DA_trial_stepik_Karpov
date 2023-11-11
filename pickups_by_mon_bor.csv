@@ -1,0 +1,37 @@
+borough,pickup_month,pickups
+Manhattan,Jun,1995388
+Manhattan,May,1888800
+Manhattan,Feb,1718571
+Manhattan,Mar,1661261
+Manhattan,Apr,1648278
+Manhattan,Jan,1455543
+Brooklyn,Jun,482466
+Brooklyn,May,476087
+Brooklyn,Apr,378095
+Brooklyn,Mar,346726
+Brooklyn,Feb,328650
+Brooklyn,Jan,309011
+Queens,Jun,286311
+Queens,May,275893
+Queens,Mar,219561
+Queens,Apr,216857
+Queens,Feb,185695
+Queens,Jan,159211
+Bronx,May,53037
+Bronx,Jun,49006
+Bronx,Apr,34617
+Bronx,Mar,32232
+Bronx,Feb,28694
+Bronx,Jan,22461
+Staten Island,Jun,1673
+Staten Island,May,1517
+Staten Island,Apr,1068
+Staten Island,Mar,975
+Staten Island,Feb,903
+Staten Island,Jan,821
+EWR,Jun,29
+EWR,May,27
+EWR,Mar,14
+EWR,Feb,14
+EWR,Jan,11
+EWR,Apr,10
